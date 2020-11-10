@@ -1,7 +1,7 @@
 package octopusdeploy
 
 import (
-	"github.com/OctopusDeploy/go-octopusdeploy/uritemplates"
+	"github.com/pemaxim/go-octopusdeploy/uritemplates"
 	"github.com/dghubble/sling"
 	"github.com/google/go-querystring/query"
 	"github.com/jinzhu/copier"

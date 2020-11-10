@@ -3,7 +3,7 @@ package octopusdeploy
 import (
 	"strings"
 
-	"github.com/OctopusDeploy/go-octopusdeploy/uritemplates"
+	"github.com/pemaxim/go-octopusdeploy/uritemplates"
 	"github.com/dghubble/sling"
 )
 
